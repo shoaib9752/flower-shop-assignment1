@@ -255,3 +255,18 @@ border: none;
 
 
 /* *footer */
+
+.container-footer{
+    background: #111010;
+    text-align: center;
+    padding: 50px;
+}
+
+.container-footer>span{
+    color: #E55473;
+    
+}
+
+.white{
+    color: rgba(255, 255, 255, 0.90);
+}
