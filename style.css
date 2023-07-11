@@ -48,7 +48,7 @@ body {
 
 }
 
-.lets-des{
+.lets-des {
     color: rgba(39, 39, 39, 0.60);
 }
 
@@ -61,9 +61,10 @@ body {
 
 }
 
-.fd{
+.fd {
     color: rgba(39, 39, 39, 0.60);
 }
+
 .section-td {
     margin: 178px;
     text-align: center;
@@ -167,7 +168,7 @@ body {
 }
 
 .c1 {
-    
+
     margin: 100px;
     justify-content: center;
     padding: 100px;
@@ -176,38 +177,38 @@ body {
 .c2 {
     justify-content: center;
     padding: 100px;
-    
+
 }
 
 span {
     color: #E55473;
 }
 
-.cc1{
+.cc1 {
     color: rgba(39, 39, 39, 0.60);
 }
 
 
 /* *Instagram */
 
-.container{
+.container {
     background: #FFF;
     margin-top: 30px;
 }
 
-.instagram{
+.instagram {
     text-align: center;
     padding: 50px;
 }
 
-.insta-pic{
+.insta-pic {
     display: block;
     justify-content: space-around;
     padding: 24px;
-   
+
 }
 
-.insta-p{
+.insta-p {
     color: rgba(39, 39, 39, 0.60);
     /* padding-bottom: 50px; */
 }
@@ -216,15 +217,41 @@ span {
 
 /* *get the latest idea */
 
-.container-getthe{
-   display: flex;
-   justify-content: space-around;
-   background-image: url("image/Rectangle\ 9.png");
-   width: auto;
-   margin: 100px 70px;
-   padding: 50px;
-   
+.container-getthe {
+    background: #FFF;
+    display: flex;
+    justify-content: center;
+    background-image: url("image/Rectangle\ 9.png");
+    width: auto;
+    margin: 128px 270px;
+    padding: 50px 50px;
+    background-repeat: no-repeat;
+
+
+
 }
-.coninfo{
-   
+
+.em {
+
+    width: 700px;
+    height: 64px;
+    text-align: left ;
+    border-radius: 8px;
+background: #FFF;
+border: none;
+
 }
+
+.c-tp1{
+    text-align: center;
+    padding-bottom:20px ;
+}
+
+#clr{
+    color: rgba(39, 39, 39, 0.60);
+}
+
+
+
+
+/* *footer */
