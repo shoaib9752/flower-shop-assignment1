@@ -67,9 +67,12 @@ body {
 .container-2nd{
     background: #FFF;
     justify-content: space-around;
+    /* justify-content: space-between; */
     margin: 100px;
     align-items: center;
     display: flex;
+    text-decoration: underline;
+    
     
     
     
