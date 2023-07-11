@@ -1,0 +1,24 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* *lets make beautiful */
+
+
+
+
+.button-p{
+    border-radius: 8px;
+    border: 0px;
+    background: #E55473;
+    padding: 20px 43px;
+    color: #FFF;
+    font-weight: 700;
+    
+}
+
+.header {
+    background-color: rgba(229, 84, 115, 0.10);
+     
+    
+}
