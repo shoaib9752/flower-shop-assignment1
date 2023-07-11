@@ -209,4 +209,22 @@ span {
 
 .insta-p{
     color: rgba(39, 39, 39, 0.60);
+    /* padding-bottom: 50px; */
+}
+
+
+
+/* *get the latest idea */
+
+.container-getthe{
+   display: flex;
+   justify-content: space-around;
+   background-image: url("image/Rectangle\ 9.png");
+   width: auto;
+   margin: 100px 70px;
+   padding: 50px;
+   
+}
+.coninfo{
+   
 }
