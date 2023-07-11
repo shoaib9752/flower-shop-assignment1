@@ -1,24 +1,55 @@
 body {
     font-family: 'Open Sans', sans-serif;
+   
+
 }
 
 /* *lets make beautiful */
 
-
-
-
-.button-p{
-    border-radius: 8px;
-    border: 0px;
-    background: #E55473;
-    padding: 20px 43px;
-    color: #FFF;
-    font-weight: 700;
-    
-}
+/* *header */
 
 .header {
-    background-color: rgba(229, 84, 115, 0.10);
-     
-    
+    background: rgba(229, 84, 115, 0.10);
+    width: 100%;
+    padding: 0%;
+
 }
+
+.banner {
+
+    
+    display: flex;
+    margin: auto;
+    width: 100%;
+
+
+}
+
+.llb {
+    justify-content: center;
+    margin: 240px;
+}
+
+.banner-img {
+
+    width: 50%;
+    margin-right: 240px;
+    margin-top: 50px;
+
+}
+
+.btn {
+    border-radius: 8px;
+    background: #E55473;
+    border: 0px;
+    color: #FFF;
+    font-size: 20px;
+    padding: 20px 43px;
+
+}
+
+
+/* *Our fetured flowers */
+
+
+
