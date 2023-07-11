@@ -72,6 +72,8 @@ body {
     align-items: center;
     display: flex;
     text-decoration: underline;
+
+    
     
     
     
@@ -83,6 +85,7 @@ body {
     border-radius: 300px 300px 0px 0px;
     display: flex;
     justify-content: space-between;
+   
    
 
 }
@@ -129,7 +132,20 @@ body {
 }
 
 
+/* *extra add */
 
+
+.container-extra{
+    
+    text-align: center;
+    background-color: rgba(229, 84, 115, 0.10);
+    /* margin: 10px 10px; */
+    padding: 20px;
+    border:2px solid #E55473;
+    box-shadow: 10px;
+    border-radius: 50px;
+    
+}
 
 
 
