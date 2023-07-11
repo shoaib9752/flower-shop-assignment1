@@ -62,57 +62,50 @@ body {
     margin: 178px;
     text-align: center;
     padding: auto;
-
-
-
 }
 
-main div ul li {
-    list-style: none;
-
-}
-
-.section-3img {
-
-
-    text-decoration: underline;
-    text-align: center;
-    width: 50%;
+.container-2nd{
+    background: #FFF;
+    justify-content: space-around;
+    margin: 100px;
+    align-items: center;
     display: flex;
-    justify-content: space-between
+    
+    
+    
+
 }
 
+.pink{
+    border-radius: 300px 300px 0px 0px;
+    display: flex;
+    justify-content: space-between;
+   
 
+}
 
-.p1 {
+.p6{
     border-radius: 300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
-    justify-content: center;
-
-
-
-
-
 }
 
-.p2 {
+.p5{
     border-radius: 300px 300px 0px 0px;
     background: rgba(5, 151, 160, 0.15);
-    justify-content: center;
-
-
-
-
 }
 
-.p3 {
+.p7{
     border-radius: 300px 300px 0px 0px;
     background: rgba(71, 125, 17, 0.15);
-    justify-content: center;
-
-
-
 }
+
+
+
+
+
+
+
+
 
 
 /* *delivery & support */
@@ -131,4 +124,10 @@ main div ul li {
     
     
 }
+
+
+
+
+
+
 
