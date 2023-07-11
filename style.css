@@ -161,13 +161,16 @@ body {
 }
 
 .c1 {
-    padding: 150px;
+    
+    margin: 100px;
     justify-content: center;
+    padding: 100px;
 }
 
 .c2 {
     justify-content: center;
     padding: 100px;
+    
 }
 
 span {
