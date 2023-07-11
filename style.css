@@ -1,6 +1,6 @@
 body {
     font-family: 'Open Sans', sans-serif;
-   
+
 
 }
 
@@ -17,7 +17,7 @@ body {
 
 .banner {
 
-    
+
     display: flex;
     margin: auto;
     width: 100%;
@@ -51,5 +51,84 @@ body {
 
 /* *Our fetured flowers */
 
+.featured {
+    background-color: #FFF;
 
+
+
+}
+
+.section-td {
+    margin: 178px;
+    text-align: center;
+    padding: auto;
+
+
+
+}
+
+main div ul li {
+    list-style: none;
+
+}
+
+.section-3img {
+
+
+    text-decoration: underline;
+    text-align: center;
+    width: 50%;
+    display: flex;
+    justify-content: space-between
+}
+
+
+
+.p1 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    justify-content: center;
+
+
+
+
+
+}
+
+.p2 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    justify-content: center;
+
+
+
+
+}
+
+.p3 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    justify-content: center;
+
+
+
+}
+
+
+/* *delivery & support */
+
+
+.container {
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+
+    width: 1440px;
+    height: 320px;
+    justify-content: center;
+    margin: 10%;
+    padding: 50px;
+    text-align: center;
+    
+    
+}
 
